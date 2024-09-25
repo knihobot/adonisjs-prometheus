@@ -41,15 +41,15 @@
     "typecheck": "tsc --noEmit"
   },
   "peerDependencies": {
-    "@adonisjs/assembler": "6.1.3-25",
-    "@adonisjs/core": "^6.1.1-0"
+    "@adonisjs/assembler": "7.8.2",
+    "@adonisjs/core": "^6.14.0"
   },
   "dependencies": {
     "prom-client": "^15.1.2"
   },
   "devDependencies": {
-    "@adonisjs/assembler": "6.1.3-25",
-    "@adonisjs/core": "^6.9.0",
+    "@adonisjs/assembler": "7.8.2",
+    "@adonisjs/core": "^6.14.0",
     "@adonisjs/eslint-config": "^1.3.0",
     "@adonisjs/prettier-config": "^1.3.0",
     "@adonisjs/tsconfig": "^1.3.0",
