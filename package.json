@@ -23,7 +23,8 @@
   ],
   "exports": {
     ".": "./build/index.js",
-    "./types": "./build/src/types.js"
+    "./types": "./build/src/types.js",
+    "./prometheus_provider": "./build/providers/prometheus_provider.js"
   },
   "scripts": {
     "pretest": "npm run lint",
